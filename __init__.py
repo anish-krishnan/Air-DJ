@@ -2,9 +2,7 @@
 # AIR-DJ!
 # Made with <3 by Anish Krishnan 
 #
-# Andrew ID: agkrishn
-#
-# MOST RECENT EDIT: 12/7/2017
+# MOST RECENT EDIT: 4/21/2018
 ####################################
 from Tkinter import *
 
