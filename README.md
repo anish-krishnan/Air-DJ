@@ -32,7 +32,7 @@ osascript (AppleScript Executer for volume control. Installed through terminal)
 Photo Image Library (Installed through terminal)
 
 __________
-# Disclaimer
+## Disclaimer
 
 Currently only works in Mac OS X due to applescripts used to change system volume.
 
