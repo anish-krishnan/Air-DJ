@@ -1,5 +1,5 @@
 # Air DJ
-## Anish Krishnan (agkrishn)
+## Anish Krishnan (agkrishn@andrew.cmu.edu)
 
 Project Video: https://www.youtube.com/watch?v=cadKvNfI1rA
 
@@ -38,3 +38,10 @@ Currently only works in Mac OS X due to applescripts used to change system volum
 
 Air DJ was designed for python 2.7.14 and **DOES NOT** work in python 3.x due to some
 libraries that have not been updated for the newest version of python.
+
+__________
+## Contact
+
+##### Anish Krishnan
+##### (408) 666 6313
+##### agkrishn@andrew.cmu.edu
